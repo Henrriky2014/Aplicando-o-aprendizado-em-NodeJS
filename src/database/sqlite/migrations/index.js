@@ -11,3 +11,5 @@ async function migrationsRun() {
     .then(db => db.exec(schemas))
     .catch(error => console.error(error));
 }
+
+module.exports = migrationsRun;
