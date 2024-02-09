@@ -12,4 +12,3 @@
 - Como renomear uma coluna
 - Como deletar uma coluna
 - Comandos de uma tabela(INSERT, SELECT, UPDATE, DELETE e WHERE)
-- 
