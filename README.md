@@ -1,10 +1,10 @@
-## Nesse projeto aprendi:
+# Nesse projeto aprendi:
 - Como instalar as bibliotecas express, nodemon, knex e bscryptjs
 - Sobre os métodos GET, POST, PUT, DELETE e PATCH
 - Sobre controllers de uma aplicação
 - Sobre middleware
 
-# Sobre bancos de dados relacionais: 
+## Sobre bancos de dados relacionais: 
 - Oque é uma PRIMARY KEY
 - O que é uma FOREIGN KEY
 - Como criar,alterar e deletar uma tabela
